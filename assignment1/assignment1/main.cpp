@@ -1,7 +1,6 @@
 //RecycledBin rewrite of assignment 1 using c++ only version 2 bois
 #include <iostream>
 #include <string>
-#include <cstring>
 #include <cctype>
 
 using std::cin;
